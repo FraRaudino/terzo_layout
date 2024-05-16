@@ -1,19 +1,12 @@
-*{margin: 0}
 .title{
-  min-height: 100vh;
-  min-width: 100vw;
-}
-
-.title{
-    font-family: 'merriweather',sans-serif;
-    display:flex;
-    flex-direction: row;
-    justify-content:center;
-    align-items: center;
+  font-family: 'merriweather',serif;
 }
 
 .title h2{
-    font-size: 80px;
-    font-weight: bold;
-    color: #ff0000;
+  font-size: 80px;
+  color: #FFF;
+}
+.maincontent{
+  flex-grow: 1;
+  background-color: blue;
 }

@@ -1,3 +1,5 @@
-@import "test.png";
-@import "image.css";
 @import "title.css";
+@import "logo.css";
+@import "commons.css";
+@import "image.css";
+@import "hero.css";

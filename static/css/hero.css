@@ -1,0 +1,5 @@
+.hero{
+    display: flex;
+    min-height: 100vh;
+    background-image:url(../css/img/test.png);
+}
