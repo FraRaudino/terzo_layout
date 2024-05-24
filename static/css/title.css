@@ -5,8 +5,10 @@
 .title h2{
   font-size: 80px;
   color: #FFF;
-}
-.maincontent{
-  flex-grow: 1;
-  background-color: blue;
+  border-top: solid;
+  border-bottom: solid;
+  border-top-color: #000 ;
+  border-bottom-color: #000;
+  padding-top: 18.5px;
+  padding-bottom: 20.5px;
 }
