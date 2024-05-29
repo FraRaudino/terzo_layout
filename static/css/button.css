@@ -1,18 +1,20 @@
+
 .button a{
-    background-color: #FFF;
-    text-align: center;
-    color: #080c71;
-    margin-top: 44.5px;
+    display: block;
     font-size: 30px;
-    padding-left: 124.1px;
-    padding-bottom: 11px;
-    padding-top: 15px;
-    padding-right: 125.9px;
+    color: #080C71;
+    text-decoration: none;
+    background-color: #FFF;
+    line-height: 1;
+    font-weight: bold;
+    border: 1px solid #707070;
+    padding: 15px 125px 11px 124.1px;
     border-radius: 15px;
+
+
 }
 .button{
-    border-top: solid;
-    border-top-color: #FFF;
-    display: flex;
-    margin-top: 20px;
+    margin-top: 55px;
+    border-top: 3px solid #FFF;
+    padding-top: 44.5px;
 }

@@ -5,6 +5,8 @@
 .paragraph p{
     font-size: 30px;
     color: #FFF;
+    line-height: 1;
+    justify-content: center;
     margin-top: 51.5px;
     text-align: center;
 }

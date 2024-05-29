@@ -1,14 +1,13 @@
 .navheader ul{
     display: flex;
     margin-right: 35px;
-    margin-top: 87px;
 }
 
 .listItem{
     list-style:none;
     text-decoration: none;
     color: #FFF;
-    font-family: Merriweather;
+    font-family: 'Merriweather';
     font-size: 20px;
     margin-left: 56px;
 }

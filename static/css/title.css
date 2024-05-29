@@ -5,10 +5,9 @@
 .title h2{
   font-size: 80px;
   color: #FFF;
-  border-top: solid;
-  border-bottom: solid;
-  border-top-color: #000 ;
-  border-bottom-color: #000;
+  line-height: 1;
   padding-top: 18.5px;
   padding-bottom: 20.5px;
+  border-top: solid 3px #344343;
+  border-bottom: solid 3px #344343;
 }
