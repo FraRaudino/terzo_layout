@@ -3,7 +3,7 @@
     text-align: center;
     color: #080c71;
     margin-top: 44.5px;
-    font-size: 35px;
+    font-size: 30px;
     padding-left: 124.1px;
     padding-bottom: 11px;
     padding-top: 15px;
@@ -11,5 +11,8 @@
     border-radius: 15px;
 }
 .button{
-    border-top: 2px solid #FFF;
+    border-top: solid;
+    border-top-color: #FFF;
+    display: flex;
+    margin-top: 20px;
 }
